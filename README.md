@@ -1,4 +1,6 @@
 # Fidget-Spinner-Auto-Spin
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7lwj-iT9Loo/0.jpg)](https://www.youtube.com/watch?v=7lwj-iT9Loo)
+https://youtu.be/7lwj-iT9Loo
 
 ## Requirement
   
@@ -18,8 +20,8 @@ traceback
   
 Have fun~  
   
-##Version History
+## Version History
   
-###2017.6.2
+### 2017.6.2
   
 First version with swipe screen

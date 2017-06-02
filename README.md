@@ -19,5 +19,7 @@ traceback
 Have fun~  
   
 ##Version History
+  
 ###2017.6.2
+  
 First version with swipe screen

@@ -4,6 +4,9 @@ Youtube:
 https://youtu.be/7lwj-iT9Loo  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7lwj-iT9Loo/0.jpg)](https://www.youtube.com/watch?v=7lwj-iT9Loo)
   
+Play store:  
+https://play.google.com/store/apps/details?id=myandroid.fphoenix.fastspinner  
+  
 ## Requirement
   
 Android ADB  
